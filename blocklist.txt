@@ -1,6 +1,6 @@
 # This blocklist helps Pi-hole's admin restrict access to whatsapp and its domains.
 # Curated from  sources online.
-# Last updated: 26 June 2021
+# Last updated: 04 March 2022
 
 whatsapp.com
 www.whatsapp.com
@@ -29,3 +29,5 @@ pps.whatsapp.net
 g.whatsapp.net
 dit.whatsapp.net
 mmg.whatsapp.net
+mmg-fna.whatsapp.net
+static.whatsapp.net
